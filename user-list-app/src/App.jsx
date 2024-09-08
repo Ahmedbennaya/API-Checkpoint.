@@ -1,6 +1,5 @@
-// src/App.jsx
 import React from 'react';
-import './index.css'; // Make sure Tailwind is imported here
+import './index.css'; 
 import UserList from './UserList';
 
 function App() {
